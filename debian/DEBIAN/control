@@ -1,0 +1,9 @@
+Package: count-files
+Version: 1.0-1
+Architecture: all
+Section: base
+Priority: optional
+Maintainer: Nastya  <yabaha4108@jahsec.com>
+Description: Script to count files in dir 
+
+
